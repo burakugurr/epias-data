@@ -1,0 +1,9 @@
+schedule == 1.2.0
+fastapi == 0.95.1
+uvicorn[standard] == 0.13.4
+pandas == 1.2.3
+numpy == 1.20.1
+requests == 2.25.1
+httpx == 0.18.1
+pytest == 6.2.2
+
